@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/rearrange-pdf?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/rearrange-pdf?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/rearrange-pdf?style=flat-square)
+
 # Rearrange PDF
 
 A Python tool to rearrange PDF pages for printing booklets.
